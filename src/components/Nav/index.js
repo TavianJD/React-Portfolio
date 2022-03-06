@@ -24,7 +24,7 @@ function Navigation () {
             </ul>
           </nav>
           <h1 className='my-name'> 
-           Ronya Gettis   
+           Tavian Dawson
           </h1>
         </header>
       )
