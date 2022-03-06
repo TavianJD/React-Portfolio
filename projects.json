@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Buzzstock",
+      "image": "https://user-images.githubusercontent.com/89175620/143332153-13310344-1db9-4ff3-9762-3ed52d9d34d4.png",
+      "github": "https://github.com/TavianJD/BuzzStock-Group-Project",
+      "deployedapp": "https://tavianjd.github.io/BuzzStock-Group-Project/",
+      "description": "An application only for the best stock traders keeping them in the loop with their specific tags. ",
+      "skills": "JQuery | CSS | JavaScript | Moment.js | NewsAPI"
+      },
+      {
+      "id": 2,
+      "name": "Team Profile Generator",
+      "image": "https://user-images.githubusercontent.com/89175620/146703744-3357de48-526e-4b22-94e0-95e99d25a0bd.png",
+      "github": "https://github.com/TavianJD/Team-Profile-Generator",
+      "deployedapp": "https://github.com/TavianJD/Team-Profile-Generator",
+      "description": "A node application having the ability to create and generate a Team of developers",
+      "skills": "Node | inquirer | JavaScript | Jest | Html"
+      },
+      {
+      "id": 3,
+      "name": "Quiz App",
+      "image": "https://user-images.githubusercontent.com/89175620/141359624-6f30acb8-1ff8-4c3f-8d43-2d29ca6640a2.png",
+      "github": "https://github.com/TavianJD/Friends-Quiz--4",
+      "deployedapp": "https://tavianjd.github.io/Friends-Quiz--4/",
+      "description": "This is a quiz to test your friendship with me.",
+      "skills": "JavaScript | CSS | HTML |"
+      },
+      {
+      "id": 4,
+      "name": "Park Ranger",
+      "image": "",
+      "github": "",
+      "deployedapp": "https://github.com/mukey6/Park-Rating/blob/main",
+      "description": "This project is an application that allows users to add expenses and deposits to their budget with or without internet connection.",
+      "skills": "IndexDB | Service Workers | Web Manifest"
+      },
+      {
+      "id": 5,
+      "name": "T's Weather App",
+      "image": "https://user-images.githubusercontent.com/89175620/142797433-e6e769c3-e8a9-4b6f-8bc5-af4fd925d149.png",
+      "github": "https://github.com/TavianJD/Weather-App",
+      "deployedapp": "https://tavianjd.github.io/Weather-App/",
+      "description": "An application to check on the weather near you or wherever you're traveling to",
+      "skills": "Weather API | JavaScript | HTML | CSS"
+      },
+      {
+      "id": 6,
+      "name": "Note Taker",
+      "image": "https://user-images.githubusercontent.com/89175620/151099294-65e47451-02d0-4691-811e-fc6b57089232.png",
+      "github": "https://github.com/TavianJD/note-taker",
+      "deployedapp": "https://secure-shore-08919.herokuapp.com/",
+      "description": "This application was created to allow users to read, write, save, and delete notes.",
+      "skills": "Node | Express | AJAX | jQuery"
+      }
+  ]
